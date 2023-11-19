@@ -124,7 +124,7 @@ def main(account,password):
 
 if __name__ == '__main__':
     # 多账号用逗号隔开
-    account = ['123456789'] # 账号
-    password = ['123456789'] # 密码
+    account = ['13271479485'] # 账号
+    password = ['++1468112531+'] # 密码
     for i in range(len(account)):
         main(account[i],password[i])
